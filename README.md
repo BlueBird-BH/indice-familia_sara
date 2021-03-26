@@ -5,19 +5,20 @@ La familia Sara es un grupo de bots con el proposito de actuar como asistentes p
 
 ## Mapa
 **Sara**
-[Sara](https://github.com/BlueBird-BH/Sara). **Estado: Inactivo**
-```
-https://github.com/BlueBird-BH/Sara.git
-```
+
+[Direccion](https://github.com/BlueBird-BH/Sara). **Estado: Inactivo**
+
 **Ana**
-```
-https://github.com/BlueBird-BH/Sara.git
-```
+
+[Direccion](https://github.com/BlueBird-BH/Ana). **Estado: Activo**
+
 **Sophie**
-```
-https://github.com/BlueBird-BH/Sara.git
-```
+
+[Direccion](https://github.com/BlueBird-BH/Sophie). **Estado: Activo**
+
 **Emily**
-```
-https://github.com/BlueBird-BH/Sara.git
-```
+
+[Direccion](https://github.com/BlueBird-BH/Emily). **Estado: Activo**
+
+## License
+Apache
