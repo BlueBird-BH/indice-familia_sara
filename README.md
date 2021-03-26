@@ -21,8 +21,5 @@ python sara.py
 python3 sara.py
 ```
 
-## Requisitos
-* Python 3 (Se recomienda la versión 3.9).
-
 ## Advertencia
 * El uso de 'Blue Password Generator' es responsabilidad de cada persona que haga uso de esta herramienta. El autor no asume ninguna responsabilidad y no es responsable de ningún uso indebido, daños, y/o consecuencias legales causados por este programa.
